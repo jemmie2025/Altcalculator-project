@@ -4,6 +4,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+}
 
 
 
@@ -30,7 +31,7 @@ background-color: rgb(80, 54, 105);
 border: none;
 box-sizing: border-box;
 
-    }
+}
 
 
 
@@ -70,6 +71,7 @@ button:active{
 }
 .operator-btn{
     background-color: hsl(39, 100%, 50%);
+}
 
 .operator-btn:active{
     background-color: hsl(35, 100%, 55%);
@@ -79,18 +81,4 @@ button:active{
 }
 .operator-btn:active{
     background-color: hsl(35, 100%, 75%);
-    
-
-
-
-
-
-
-
-
-j
-
-
-
-
-
+} 
